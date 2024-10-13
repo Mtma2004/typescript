@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0713e6d4.css",
+    "main.js": "/static/js/main.a40dcb65.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/pexels-vladalex94-1402787.jpg": "/static/media/pexels-vladalex94-1402787.500efef8ed8ec5e90bc0.jpg",
+    "static/media/pexels-maoriginalphotography-1485894.jpg": "/static/media/pexels-maoriginalphotography-1485894.78f51ed29f1e527c4644.jpg",
+    "static/media/wallpaperflare.com_wallpaper (1).jpg": "/static/media/wallpaperflare.com_wallpaper (1).1776c4807972a184381d.jpg",
+    "static/media/wallpaperflare.com_wallpaper (3).jpg": "/static/media/wallpaperflare.com_wallpaper (3).77c139cc096b975d8966.jpg",
+    "static/media/wallpaperflare.com_wallpaper (17).jpg": "/static/media/wallpaperflare.com_wallpaper (17).e9eb400400c28d3f22ed.jpg",
+    "static/media/wallpaperflare.com_wallpaper (8).jpg": "/static/media/wallpaperflare.com_wallpaper (8).b586d6859f7c82dd5393.jpg",
+    "static/media/wallpaperflare.com_wallpaper (14).jpg": "/static/media/wallpaperflare.com_wallpaper (14).5ee607caf58947f2bb2b.jpg",
+    "static/media/wallpaperflare.com_wallpaper (5).jpg": "/static/media/wallpaperflare.com_wallpaper (5).f1daaa74cb39887e3378.jpg",
+    "static/media/wallpaperflare.com_wallpaper (10).jpg": "/static/media/wallpaperflare.com_wallpaper (10).6bfbd4ff90a063a0a6e7.jpg",
+    "static/media/wallpaperflare.com_wallpaper (16).jpg": "/static/media/wallpaperflare.com_wallpaper (16).c0e6aee576cbb48c131e.jpg",
+    "static/media/wallpaperflare.com_wallpaper (15).jpg": "/static/media/wallpaperflare.com_wallpaper (15).d0d0dd4cbb07fb78b6ce.jpg",
+    "static/media/wallpaperflare.com_wallpaper (13).jpg": "/static/media/wallpaperflare.com_wallpaper (13).dedef583c493d64632f0.jpg",
+    "static/media/wallpaperflare.com_wallpaper (18).jpg": "/static/media/wallpaperflare.com_wallpaper (18).d5c75caed2294533278b.jpg",
+    "static/media/wallpaperflare.com_wallpaper (9).jpg": "/static/media/wallpaperflare.com_wallpaper (9).9cc07aceb50aef9a878e.jpg",
+    "index.html": "/index.html",
+    "main.0713e6d4.css.map": "/static/css/main.0713e6d4.css.map",
+    "main.a40dcb65.js.map": "/static/js/main.a40dcb65.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0713e6d4.css",
+    "static/js/main.a40dcb65.js"
+  ]
+}
